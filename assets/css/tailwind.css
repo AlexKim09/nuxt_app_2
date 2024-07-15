@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'MullerRegular';
+        src: url('~/assets/fonts/MullerRegular.woff') format('woff');
+    font-family: 'MullerThin';
+        src: url('~/assets/fonts/MullerThin.woff') format('woff');
+}
