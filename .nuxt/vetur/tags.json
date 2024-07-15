@@ -1,0 +1,17 @@
+{
+  "BoilerSlider": {
+    "description": "Auto imported from components/BoilerSlider.vue"
+  },
+  "CircleElement": {
+    "description": "Auto imported from components/CircleElement.vue"
+  },
+  "FirstBlock": {
+    "description": "Auto imported from components/FirstBlock.vue"
+  },
+  "NavienAdvantages": {
+    "description": "Auto imported from components/NavienAdvantages.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  }
+}
